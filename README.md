@@ -1,0 +1,2 @@
+- Projeto simples de dia dos namorados para agradar a sua morena.
+- Utilizei HTML, CSS e JS.
